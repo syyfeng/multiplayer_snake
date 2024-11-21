@@ -13,17 +13,17 @@ Requirements
 - Basic understanding of networking for setting up server-client connections.
 
 How to Run
-    Single-Player Mode
-        1. Open a terminal or command prompt.
-        2. Run the script.
-        3. Use arrow keys to control the snake. The goal is to collect food and grow the snake while avoiding collisions with walls or itself.
+- Single-Player Mode
+    1. Open a terminal or command prompt.
+    2. Run the script.
+    3. Use arrow keys to control the snake. The goal is to collect food and grow the snake while avoiding collisions with walls or itself.
 
-    Multiplayer Mode
-        Setting Up the Server
-        1. Run the server script.
-        2. The server will start listening on a specified port.
+- Multiplayer Mode
+    Setting Up the Server
+    1. Run the server script.
+    2. The server will start listening on a specified port.
 
-        Connecting Clients
-        1. Run the client script.
-        2. Enter the server's IP address and port when prompted.
-        3. Use the arrow keys to control your snake in the multiplayer game.
+    Connecting Clients
+    1. Run the client script.
+    2. Enter the server's IP address and port when prompted.
+    3. Use the arrow keys to control your snake in the multiplayer game.
